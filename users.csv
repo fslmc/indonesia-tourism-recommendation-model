@@ -1,0 +1,301 @@
+,User_Id,Location,Age
+0,1,Semarang,20
+1,2,Bekasi,21
+2,3,Cirebon,23
+3,4,Bekasi,21
+4,5,Lampung,20
+5,6,Jakarta Utara,18
+6,7,Jakarta Selatan,39
+7,8,Bandung,40
+8,9,Surabaya,38
+9,10,Bekasi,39
+10,11,Yogyakarta,20
+11,12,Bogor,37
+12,13,Depok,18
+13,14,Jakarta Pusat,26
+14,15,Jakarta Timur,34
+15,16,Bekasi,40
+16,17,Semarang,31
+17,18,Yogyakarta,39
+18,19,Cirebon,26
+19,20,Lampung,30
+20,21,Semarang,30
+21,22,Subang,25
+22,23,Jakarta Barat,37
+23,24,Bekasi,36
+24,25,Lampung,40
+25,26,Palembang,38
+26,27,Bogor,22
+27,28,Sragen,38
+28,29,Ponorogo,34
+29,30,Depok,30
+30,31,Jakarta Selatan,26
+31,32,Bekasi,34
+32,33,Ponorogo,24
+33,34,Sragen,31
+34,35,Klaten,24
+35,36,Solo,20
+36,37,Tanggerang,21
+37,38,Serang,26
+38,39,Cilacap,32
+39,40,Semarang,27
+40,41,Yogyakarta,24
+41,42,Kota Gede,37
+42,43,Cirebon,33
+43,44,Subang,21
+44,45,Karawang,25
+45,46,Purwakarat,38
+46,47,Jakarta Utara,31
+47,48,Jakarta Selatan,35
+48,49,Jakarta Pusat,24
+49,50,Bekasi,19
+50,51,Bogor,29
+51,52,Karawang,18
+52,53,Subang,28
+53,54,Serang,31
+54,55,Tanggerang,19
+55,56,Kota Gede,18
+56,57,Yogyakarta,21
+57,58,Lampung,21
+58,59,Ponorogo,26
+59,60,Surabaya,25
+60,61,Nganjuk,23
+61,62,Madura,36
+62,63,Semarang,35
+63,64,Bandung,38
+64,65,Yogyakarta,22
+65,66,Bekasi,33
+66,67,Surabaya,25
+67,68,Kota Gede,37
+68,69,Bekasi,24
+69,70,Bogor,21
+70,71,Depok,39
+71,72,Tanggerang,19
+72,73,Serang,29
+73,74,Semarang,30
+74,75,Bekasi,19
+75,76,Cirebon,19
+76,77,Bekasi,34
+77,78,Lampung,22
+78,79,Jakarta Utara,31
+79,80,Jakarta Selatan,32
+80,81,Bandung,29
+81,82,Surabaya,24
+82,83,Bekasi,32
+83,84,Yogyakarta,35
+84,85,Bogor,31
+85,86,Depok,32
+86,87,Jakarta Pusat,30
+87,88,Jakarta Timur,27
+88,89,Bekasi,35
+89,90,Semarang,29
+90,91,Yogyakarta,32
+91,92,Cirebon,39
+92,93,Lampung,18
+93,94,Semarang,34
+94,95,Subang,27
+95,96,Jakarta Barat,19
+96,97,Bekasi,38
+97,98,Lampung,28
+98,99,Palembang,33
+99,100,Bogor,28
+100,101,Sragen,39
+101,102,Ponorogo,21
+102,103,Depok,30
+103,104,Jakarta Selatan,27
+104,105,Bekasi,37
+105,106,Ponorogo,32
+106,107,Sragen,24
+107,108,Klaten,33
+108,109,Solo,18
+109,110,Tanggerang,39
+110,111,Serang,38
+111,112,Cilacap,18
+112,113,Semarang,38
+113,114,Yogyakarta,39
+114,115,Kota Gede,26
+115,116,Cirebon,23
+116,117,Subang,30
+117,118,Karawang,32
+118,119,Purwakarat,25
+119,120,Jakarta Utara,32
+120,121,Jakarta Selatan,35
+121,122,Jakarta Pusat,24
+122,123,Bekasi,32
+123,124,Bogor,22
+124,125,Karawang,24
+125,126,Subang,32
+126,127,Serang,38
+127,128,Tanggerang,28
+128,129,Kota Gede,29
+129,130,Yogyakarta,27
+130,131,Lampung,21
+131,132,Ponorogo,31
+132,133,Surabaya,29
+133,134,Nganjuk,27
+134,135,Madura,22
+135,136,Semarang,35
+136,137,Bandung,28
+137,138,Yogyakarta,25
+138,139,Bekasi,33
+139,140,Surabaya,25
+140,141,Kota Gede,34
+141,142,Bekasi,29
+142,143,Bogor,25
+143,144,Depok,18
+144,145,Tanggerang,37
+145,146,Serang,38
+146,147,Semarang,18
+147,148,Bekasi,33
+148,149,Cirebon,30
+149,150,Bekasi,40
+150,151,Lampung,36
+151,152,Jakarta Utara,25
+152,153,Jakarta Selatan,39
+153,154,Bandung,31
+154,155,Surabaya,37
+155,156,Bekasi,31
+156,157,Yogyakarta,28
+157,158,Bogor,23
+158,159,Depok,20
+159,160,Jakarta Pusat,36
+160,161,Jakarta Timur,33
+161,162,Bekasi,25
+162,163,Semarang,40
+163,164,Yogyakarta,19
+164,165,Cirebon,23
+165,166,Lampung,26
+166,167,Semarang,19
+167,168,Subang,38
+168,169,Jakarta Barat,18
+169,170,Bekasi,19
+170,171,Lampung,33
+171,172,Palembang,34
+172,173,Bogor,29
+173,174,Sragen,32
+174,175,Ponorogo,36
+175,176,Depok,31
+176,177,Jakarta Selatan,35
+177,178,Bekasi,33
+178,179,Ponorogo,27
+179,180,Sragen,24
+180,181,Klaten,29
+181,182,Solo,34
+182,183,Tanggerang,37
+183,184,Serang,30
+184,185,Cilacap,33
+185,186,Semarang,28
+186,187,Yogyakarta,25
+187,188,Kota Gede,37
+188,189,Cirebon,21
+189,190,Subang,18
+190,191,Karawang,32
+191,192,Purwakarat,37
+192,193,Jakarta Utara,20
+193,194,Jakarta Selatan,31
+194,195,Jakarta Pusat,29
+195,196,Bekasi,28
+196,197,Bogor,27
+197,198,Karawang,26
+198,199,Subang,18
+199,200,Serang,34
+200,201,Bekasi,21
+201,202,Lampung,21
+202,203,Jakarta Utara,24
+203,204,Jakarta Selatan,21
+204,205,Bandung,24
+205,206,Surabaya,30
+206,207,Bekasi,20
+207,208,Yogyakarta,27
+208,209,Bogor,19
+209,210,Depok,18
+210,211,Jakarta Pusat,22
+211,212,Jakarta Timur,28
+212,213,Bekasi,20
+213,214,Semarang,30
+214,215,Yogyakarta,23
+215,216,Cirebon,28
+216,217,Lampung,20
+217,218,Semarang,29
+218,219,Subang,24
+219,220,Jakarta Barat,23
+220,221,Bekasi,30
+221,222,Lampung,30
+222,223,Palembang,20
+223,224,Bogor,28
+224,225,Sragen,19
+225,226,Ponorogo,23
+226,227,Depok,25
+227,228,Jakarta Selatan,18
+228,229,Bekasi,20
+229,230,Ponorogo,20
+230,231,Sragen,28
+231,232,Klaten,30
+232,233,Solo,23
+233,234,Tanggerang,27
+234,235,Serang,18
+235,236,Cilacap,23
+236,237,Semarang,20
+237,238,Yogyakarta,30
+238,239,Kota Gede,23
+239,240,Cirebon,22
+240,241,Subang,20
+241,242,Karawang,20
+242,243,Purwakarat,20
+243,244,Jakarta Utara,27
+244,245,Jakarta Selatan,27
+245,246,Jakarta Pusat,28
+246,247,Bekasi,28
+247,248,Bogor,29
+248,249,Karawang,19
+249,250,Subang,27
+250,251,Semarang,29
+251,252,Bekasi,30
+252,253,Cirebon,34
+253,254,Bekasi,34
+254,255,Lampung,30
+255,256,Jakarta Utara,39
+256,257,Jakarta Selatan,25
+257,258,Bandung,38
+258,259,Surabaya,27
+259,260,Bekasi,33
+260,261,Yogyakarta,38
+261,262,Bogor,38
+262,263,Depok,27
+263,264,Jakarta Pusat,37
+264,265,Jakarta Timur,30
+265,266,Bekasi,32
+266,267,Semarang,31
+267,268,Yogyakarta,32
+268,269,Cirebon,36
+269,270,Lampung,25
+270,271,Semarang,37
+271,272,Subang,30
+272,273,Jakarta Barat,33
+273,274,Bekasi,38
+274,275,Lampung,34
+275,276,Lampung,39
+276,277,Jakarta Utara,29
+277,278,Jakarta Selatan,40
+278,279,Bandung,28
+279,280,Surabaya,40
+280,281,Bekasi,30
+281,282,Yogyakarta,39
+282,283,Bogor,37
+283,284,Depok,29
+284,285,Jakarta Pusat,29
+285,286,Jakarta Timur,35
+286,287,Bekasi,27
+287,288,Semarang,30
+288,289,Yogyakarta,35
+289,290,Cirebon,34
+290,291,Lampung,25
+291,292,Semarang,29
+292,293,Subang,34
+293,294,Jakarta Barat,28
+294,295,Bekasi,31
+295,296,Lampung,31
+296,297,Palembang,39
+297,298,Bogor,38
+298,299,Sragen,27
+299,300,Ponorogo,26
